@@ -1,1 +1,41 @@
 /* Your CSS here. */
+h1 {
+    font-size: 2.0em;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+h2 {
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style: italic;
+    color: #ffffff;
+}
+
+a {
+    font-size: 1.2em;
+    color: #ffffff;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+p {
+    font-size: 1.0em;
+    color: #ffffff;
+    text-align: left;
+}
+
+div {
+    background-color: #4e4a4a;
+    padding: 20px;
+    margin: 20px;
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}  
